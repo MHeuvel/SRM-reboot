@@ -1,0 +1,9 @@
+reboot:
+  name: Reboot SRM
+  description: Reboot the Synology Router via API.
+  fields:
+    entry_id:
+      name: Entry ID
+      description: Optional entry ID if multiple configs exist.
+      required: false
+      example: "192.168.1.1:8001"
