@@ -1,0 +1,11 @@
+{
+  "domain": "srm_reboot",
+  "name": "SRM Reboot",
+  "version": "1.0.0",
+  "documentation": "https://github.com/MHeuvel/SRM-reboot",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "platforms": ["number", "binary_sensor"],
+  "config_flow": true
+}
