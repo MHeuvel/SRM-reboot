@@ -1,0 +1,11 @@
+{
+  "title": "SRM Reboot",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure SRM Reboot",
+        "description": "Enter IP, port, username and password."
+      }
+    }
+  }
+}
